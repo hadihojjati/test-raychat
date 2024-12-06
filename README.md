@@ -51,3 +51,7 @@ $ npm run test
 
 ## Documentation (Access it at http://localhost:8080)
 compodoc -s
+
+
+## Test with DB
+  # Use dump.zip file as a sample database.
