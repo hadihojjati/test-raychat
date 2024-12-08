@@ -54,4 +54,4 @@ compodoc -s
 
 
 ## Test with DB
-  # Use dump.zip file as a sample database.
+  # Use dump.zip file as a sample database. supervisor password : 123456
